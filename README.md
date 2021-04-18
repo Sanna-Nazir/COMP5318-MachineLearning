@@ -11,7 +11,7 @@ The aim of this assignment was to compare different Machine Learning and Deep Le
   2. Logistic Regression Classifier
   3. K-Nearesr Neighbours Classifier
   4. Neural Network Classifier
-
+  
 2. [Assignment 2](https://github.com/Sanna-Nazir/COMP5318-MachineLearning/tree/main/Assignment_2):
 
 The purpose of this assignment is to evaluate various regressors for the prediction of forest fire affected area. Each regressor is evaluated on industry standard metrics such as Root Mean Square Error (RMSE) and Negative Log Likelihood (NLL) of the predicted results versus the actual test results. The data used for performing this task is the data collected by Cortez and Morais from the Montesinho Natural Park of Portugal. The same is publicly available on the [UCI Machine Learning Repository](http://archive.ics.uci.edu/ml/datasets/Forest+Fires). For the purpose of our project, we have chosen a wide variety of regression algorithms to cover variety of scenarios within the dataset. Reasons for the same may be discussed as under:
