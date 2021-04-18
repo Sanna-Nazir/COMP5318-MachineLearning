@@ -7,10 +7,10 @@ The assignments were completed as part of the COMP5318 unit of The University of
 	
 The aim of this assignment was to compare different Machine Learning and Deep Learning algorithms **built from scratch**. To compare the models, the publically available 'Fashion MNIST Data' was taken. Various data pre-processing techniques like **standardization** and  **Principal Component Analysis** were used. Data Analysis was also done using python. The algorithms that were implemented and compared are:
 
-  1. Naive Bayes Classifier
-  2. Logistic Regression Classifier
-  3. K-Nearesr Neighbours Classifier
-  4. Neural Network Classifier
+    1. Naive Bayes Classifier
+    2. Logistic Regression Classifier
+    3. K-Nearesr Neighbours Classifier
+    4. Neural Network Classifier
   
 2. [Assignment 2](https://github.com/Sanna-Nazir/COMP5318-MachineLearning/tree/main/Assignment_2):
 
