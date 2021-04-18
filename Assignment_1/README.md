@@ -10,10 +10,10 @@ Microscopically, at a student level, the project is aimed at inculcating machine
 Macroscopically, the study is aimed at understanding the growing need for image-based classifiers in the realm of technology. With the explosion of data in the modern world coupled with the growing propensity of consumers for digital shopping trends, e-commerce has seen an exponential growth. A key task in building such e-commerce platforms would be the segregation of garments in various classes of human-understandable sections for instance, a section for pants and a separate one for pants. By executing this project and assignment, the student can become efficient in such a task of specific textile classification based on images.
 
 More specifically, the microscopic aims of this project may be defined as: 
----1. Analysing the raw dataset. 
----2. Dividing the annotated dataset into training and validation set. 
----3. Pre-processing the data for better performance. 
----4. Studying different Machine Learning and Deep Learning algorithms and selecting those that solve the given problem domain with high accuracy. 
----5. Creating the required classifiers and carry out the experimentation 
----6. Comparison of techniques and draw educated inferences from the same. 
----7. Concluding the study with closing remarks and personal reflection.
+  1. Analysing the raw dataset. 
+  2. Dividing the annotated dataset into training and validation set. 
+  3. Pre-processing the data for better performance. 
+  4. Studying different Machine Learning and Deep Learning algorithms and selecting those that solve the given problem domain with high accuracy. 
+  5. Creating the required classifiers and carry out the experimentation 
+  6. Comparison of techniques and draw educated inferences from the same. 
+  7. Concluding the study with closing remarks and personal reflection.

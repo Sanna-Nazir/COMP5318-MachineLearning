@@ -12,9 +12,9 @@ Global warming is a scientifically proven and physically experienced phenomenon 
 
 
 More specifically, the microscopic aims of this project may be defined as: 
----1. Selection of the dataset. Here, chosen dataset is Forest Fires Dataset.
----2. Dividing the annotated dataset into training and validation set. 
----3. Pre-processing the data for better performance. 
----4. Studying different Machine Learning and Deep Learning algorithms and selecting those that solve the given problem domain with high accuracy. 
----5. Perform experiments to analyze the performance of various regression techniques on the same to predict the burned/affected area due to a fire, given environmental and geographical parameters.
----6. Concluding the study with closing remarks and personal reflection.
+  1. Selection of the dataset. Here, chosen dataset is Forest Fires Dataset.
+  2. Dividing the annotated dataset into training and validation set. 
+  3. Pre-processing the data for better performance. 
+  4. Studying different Machine Learning and Deep Learning algorithms and selecting those that solve the given problem domain with high accuracy. 
+  5. Perform experiments to analyze the performance of various regression techniques on the same to predict the burned/affected area due to a fire, given environmental and geographical parameters.
+  6. Concluding the study with closing remarks and personal reflection.
